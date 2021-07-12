@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enter_any_text">Enter any text</string>
+    <string name="notify">notify</string>
+    <string name="click">click!</string>
+    <string name="mytexthere">MyTextHere</string>
+</resources>
